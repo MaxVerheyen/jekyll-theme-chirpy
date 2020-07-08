@@ -1,1 +1,1 @@
-/* Registering Service Worker */ if('serviceWorker' in navigator) { navigator.serviceWorker.register('/sw.js'); };
+/* Registering Service Worker */ if('serviceWorker' in navigator) { navigator.serviceWorker.register('/jekyll-theme-chirpy/sw.js'); };
