@@ -21,24 +21,22 @@ utilising all the functionalities WordPress has to offer.
 
 ## Employment History
 
-Junior developer @ [Calibrate](https://www.calibrate.be/)       Oct 2019 - Mar 2020
-
-***
+|Function|Company|Duration|
+|:---|:--|:---|
+|Junior developer | [Calibrate](https://www.calibrate.be/)  | Oct 2019 - Mar 2020
 
 ## Internships
 
-Drupal @ [Calibrate](https://www.calibrate.be/)                 Jun 2019 - Oct 2019
-
-Web developer @ [Volta](https://www.volta.be/)                  Aug 2017 - Sep 2017
-
-Webshop @ [Het Mediahuis](https://www.mediahuis.be/)            May 2016 - Jul 2016
-
-***
+|Function|Company|Duration|
+|:---|:--|:---|
+|Drupal | [Calibrate](https://www.calibrate.be/)  | Jun 2019 - Oct 2019
+|Web developer | [Volta](https://www.volta.be/)   | Aug 2017 - Sep 2017
+|Webshop| [Het Mediahuis](https://www.mediahuis.be/)     | May 2016 - Jul 2016
 
 ## Education
 
-Web developer @ [BeCode](https://www.becode.org/)               Dec 2018 - Jun 2019
-
-Javascript developer @ [BetaVZW](http://www.betavzw.org/)       Nov 2016 - May 2017
-
-Web designer @ [Syntra](http://www.betavzw.org/)                Nov 2015 - May 2016
+|Function|Company|Duration|
+|:---|:--|:---|
+|Web developer | [BeCode](https://www.becode.org/) | Dec 2018 - Jun 2019
+|Javascript developer | [BetaVZW](http://www.betavzw.org/) | Nov 2016 - May 2017
+|Web designer | [Syntra](http://www.betavzw.org/)  | Nov 2015 - May 2016
