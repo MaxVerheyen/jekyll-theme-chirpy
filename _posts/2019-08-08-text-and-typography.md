@@ -14,9 +14,13 @@ This Jekyll template totally compatible with Markdown syntax. Now, let's take a 
 ***
 # H1
 
-<h2 data-toc-skip>H2</h2>
+<!-- <h2 data-toc-skip>H2</h2>
 
-<h3 data-toc-skip>H3</h3>
+<h3 data-toc-skip>H3</h3> -->
+
+## H2
+
+### H3
 
 #### H4
 
