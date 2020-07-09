@@ -8,14 +8,12 @@ title: About
 # MIT License
 ---
 
-> **Note**: I’m a self-taught, creative web developer, eager to find new opportunities to work and learn.
-
-Greetings, 
-
 After a 3 months internship @ Calibrate i have acquired some basic knowledge about Drupal site building, theming, module development, site administration and backend infrastructure. Drupal is a really flexible and modular CMS, that really empowers the customer.
 
 I love the speed and useability WordPress offers in order to deploy a product. For a potential customer the built-in backend offers an easy to work with and clean interface. I’m currently working on improving my PHP skills in order to become more efficient in 
 utilising all the functionalities WordPress has to offer.
+
+> **Note**: I’m a self-taught, creative web developer, eager to find new opportunities to work and learn.
 
 ***
 
