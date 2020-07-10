@@ -1,5 +1,5 @@
 ---
-title: Why Docker > MAMP
+title: Local development with MAMP & Docker
 author: Max Verheyen
 date: 2020-07-08 22:33:00 +0800
 categories: [Blogging, Demo]
