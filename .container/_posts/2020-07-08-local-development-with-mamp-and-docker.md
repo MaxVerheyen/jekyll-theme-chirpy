@@ -8,9 +8,9 @@ tags: [localhost, WordPress]
 
 MAMP might seem like an easier option compared to setting up a virtual machine like environment with containers in Docker.
 
-Let's install WordPress locally with both MAMP and Docker, and in doing so, discover a few key differences between the two develepment environments.
+Let's install WordPress locally with both MAMP[^footnote] and Docker[^footnote-2], and in doing so, discover a few key differences between the two development environments.
 
-## 1. Setting up a local WordPress with MAMP[^footnote]
+## 1. Setting up a local WordPress with MAMP
 
 ### 1.1 Download and install MAMP
 
@@ -73,7 +73,7 @@ The following fields are the default for the MAMP MySQL installation.
 
 Finish the WordPress installation process.
 
-## 2. Setting up a local WordPress with Docker[^footnote-2]
+## 2. Setting up a local WordPress with Docker
 
 ### 2.1 Download and install Docker
 
@@ -110,7 +110,7 @@ repository/
 └── docker-compose.yaml
 ```
 
-- Read more about Docker Compose: [docs.docker.com/compose](https://docs.docker.com/compose/)
+- Read more about Docker Compose: [docs.docker.com/compose](https://docs.docker.com/compose/).
 
 ### 2.3 Start up containers with docker-compose
 
