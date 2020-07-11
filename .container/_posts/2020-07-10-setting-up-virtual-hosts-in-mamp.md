@@ -10,11 +10,11 @@ By following these steps you will be able to set up custom domains and remove th
 
 ## Configure your ports
 
-Open your MAMP preferences and make sure you are running Apache under the tab: Web Server.
+Open your MAMP preferences and make sure you are running Apache.
 
 ![upload-image]({{ "/assets/img/sample/server.png" | relative_url }})
 
-Make sure your Apache port is set to 80. The default port for MySQL is 3306.
+Make sure your Apache Port is set to 80. The default port for MySQL is 3306.
 
 ![upload-image]({{ "/assets/img/sample/ports.png" | relative_url }})
 
@@ -51,7 +51,7 @@ Uncomment the code by removing the hash symbol.
 Include /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf
 ```
 
-## Allow SymLink Override
+## Allow SymLink override
 
 Find the `FollowSymLinks` directory in that same `httpd.conf` file.
 
