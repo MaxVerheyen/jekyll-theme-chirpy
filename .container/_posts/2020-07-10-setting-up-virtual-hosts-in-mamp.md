@@ -94,13 +94,15 @@ Add custom domains:
 
 ## Allow your computer to recognize your local domain
 
+A Hosts file is a file that almost all computers and operating systems can use to map a connection between an IP address and domain names.
+
 Open up a terminal and open the `/etc/hosts` file with an editor you feel comfortable using. You have to open the file with administrator rights to be able to edit it (make sure to include `sudo` and enter your admin password when asked).
 
 `sudo nano /etc/hosts` Opens the file with Nano inside the terminal.
 
-`sudo pico /etc/hosts` Opens the file with Pano inside the terminal.
+`sudo pico /etc/hosts` Opens the file with Pico inside the terminal.
 
-`sudo code /etc/hosts` Opens the file with Visual Studio Code.
+`sudo code /etc/hosts` Opens the file with Visual Studio Code (requires Shell Command : Install 'code' in PATH).
 
 Make sure the file contains:
 
