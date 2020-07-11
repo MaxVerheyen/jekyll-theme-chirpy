@@ -10,9 +10,13 @@ By following these steps you will be able to set up custom domains and remove th
 
 ## Configure your ports
 
-Open your MAMP preferences and make sure your Apache port is set to 80. The default port for MySQL is 3306.
+Open your MAMP preferences and make sure you are running Apache under the tab: Web Server.
 
-![upload-image]({{ "/assets/img/sample/MAMP-ports.png" | relative_url }})
+![upload-image]({{ "/assets/img/sample/server.png" | relative_url }})
+
+Make sure your Apache port is set to 80. The default port for MySQL is 3306.
+
+![upload-image]({{ "/assets/img/sample/ports.png" | relative_url }})
 
 ## Listen to port 80
 
