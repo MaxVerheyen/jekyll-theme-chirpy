@@ -1,9 +1,10 @@
 ---
 title: Local development with MAMP & Docker
 author: Max Verheyen
-date: 2020-07-08 22:33:00 +0800
-categories: [Blogging, Demo]
-tags: [localhost, WordPress]
+date: 2020-07-08 22:30:00 +0200
+categories: [Localhost, 1. Setup]
+tags: [Localhost,MAMP, Docker, WordPress]
+pin: true
 ---
 
 MAMP might seem like an easier option compared to setting up a virtual machine like environment with containers in Docker.
