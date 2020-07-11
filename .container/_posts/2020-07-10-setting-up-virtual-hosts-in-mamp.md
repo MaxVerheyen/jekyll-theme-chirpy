@@ -6,7 +6,7 @@ categories: [Localhost, 2. Custom Domain]
 tags: [Localhost, MAMP, Apache]
 ---
 
-By following these steps you will be able to set up custom domains and remove the :8888 from you localhost domain. When you are developing locally it's a good idea to run your site on the same domain as where it will be moved to when going live.
+By following these steps you will be able to set up custom domains and remove the :8888 from you localhost domain. When you are developing locally it's a good idea to run your site on a similar domain compared to your live environment.
 
 ## Configure your ports
 
