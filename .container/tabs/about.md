@@ -10,9 +10,9 @@ title: About
 
 I'm a proficient Front-End developer that loves using SASS to compile and create beautiful designs. I can easily adapt to any CSS framework required. I also know how to use Photoshop and Illustrator, but would not consider myself a designer.
 
-After a 3 months internship and 6 months of learning as a junior developer @ Calibrate i have acquired some basic knowledge about Drupal site building, theming, module development and site administration.
+After a 3 months internship and 6 months of learning as a junior developer at Calibrate I have acquired some basic knowledge about Drupal site building, theming, module development and site administration.
 
-In the past i have developed a few applications with Node.js, mainly using the MEN stack. I loved the fact that all components of the stack support applications written in one language for both server-side and client-side execution environments.
+In the past I have developed a few applications with Node.js, mainly using the MEN stack. I loved the fact that all components of the stack support applications written in one language for both server-side and client-side execution environments.
 
 I'm currently learing more about the React Framework and would love to incorporate that into my stack (MERN-stack).
 
