@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-I'm a proficient Front-End developer that loves using SASS to compile and create beautiful layouts. I can easily adapt to any CSS framework required. Even though I definetly have an eye for design, and know how to use some basic Photoshop and ILlustrator features, I would not go so far as to consider myself a designer.
+I'm a proficient Front-End developer that loves using SASS to compile and create beautiful layouts. I can easily adapt to any CSS framework required. Even though I definetly have an eye for design, and know how to use some basic Photoshop and Illustrator, I would not go so far as to consider myself a designer.
 
 After a 3 months internship and 6 months of learning as a junior developer at Calibrate I have acquired some knowledge about Drupal site building, theming, module development and site administration.
 
