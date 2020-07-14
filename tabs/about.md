@@ -8,13 +8,13 @@ title: About
 # MIT License
 ---
 
-I'm a proficient Front-End developer that loves using SASS to compile and create beautiful layouts. I can easily adapt to any CSS framework required. I also have some basic knowledge about Photoshop and Illustrator, even though I definetly have an eye for design, I wouldn't go so far as to consider myself a designer.
+I'm a proficient Front-End developer that loves using SASS to compile and create beautiful layouts. I can easily adapt to any CSS framework required. I know how to use some basic Photoshop and Illustrator functions, and even though I definetly have an eye for design, I wouldn't go so far as to consider myself a designer.
 
-After a 3 months internship and 6 months of learning as a junior developer at Calibrate I have acquired some basic knowledge about Drupal site building, theming, module development and site administration.
+After a 3 months internship and 6 months of learning as a junior developer at Calibrate I have acquired some knowledge about Drupal site building, theming, module development and site administration.
 
 In the past I have developed a few applications with Node.js, mainly using the MEN stack. I loved the fact that all components of the stack support applications written in one language for both server-side and client-side execution environments.
 
-Currently I'm learing more about the React Framework and would love to incorporate that into my stack (MERN-stack).
+Currently I'm learning more about the React Framework and would love to incorporate that into my stack (MERN-stack).
 
 ***
 
