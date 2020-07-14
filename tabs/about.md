@@ -40,4 +40,4 @@ Currently I'm learing more about the React Framework and would love to incorpora
 |Javascript developer | [BetaVZW](http://www.betavzw.org/) | Nov 2016 - May 2017
 |Web designer | [Syntra](http://www.betavzw.org/)  | Nov 2015 - May 2016
 
-<a href="../../assets/pdf/Maximiliaan_verheyen.pdf"><img src="../../assets/img/sample/32px-PDF_file_icon.png" alt="PDF download"></a>
+<a href="../../assets/pdf/Maximiliaan_Verheyen.pdf"><img src="../../assets/img/sample/32px-PDF_file_icon.png" alt="PDF download"></a>
