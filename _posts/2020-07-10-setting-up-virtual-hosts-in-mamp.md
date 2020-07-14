@@ -100,7 +100,9 @@ Add custom domains:
 
 A Hosts file is a file that almost all computers and operating systems can use to map a connection between an IP address and domain names.
 
-Open up a terminal and open the `/etc/hosts` file with an editor you feel comfortable using. You have to open the file with administrator rights to be able to edit it (make sure to include `sudo` and enter your admin password when asked).
+You have to open the file with administrator rights to be able to edit it (include `sudo` and enter your admin password when asked).
+
+Open up a terminal and edit the `/etc/hosts` file with an editor you feel comfortable using. 
 
 `sudo nano /etc/hosts` Opens the file with Nano inside the terminal.
 
@@ -120,3 +122,5 @@ Add your custom domains:
 127.0.0.1 website1.dev
 127.0.0.1 website2.dev
 ```
+
+> On Windows the Hosts file can be easily located under `C:\Windows\System32\Drivers\etc\hosts`.
