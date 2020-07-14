@@ -34,7 +34,7 @@ Currently I'm learing more about the React Framework and would love to incorpora
 
 ## Education
 
-|Function|Company|Duration|
+|Function|Institute|Duration|
 |:---|:--|:---|
 |Web developer | [BeCode](https://www.becode.org/) | Dec 2018 - Jun 2019
 |Javascript developer | [BetaVZW](http://www.betavzw.org/) | Nov 2016 - May 2017
