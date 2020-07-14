@@ -12,7 +12,7 @@ I'm a proficient Front-End developer that loves writing Sass to compile and crea
 
 After a 3 months internship and 6 months of learning as a junior developer at Calibrate I have acquired some knowledge about Drupal site building, theming, module development and site administration.
 
-In the past I have developed a few applications with Node.js, mainly using the MEN stack. I loved the fact that all components of the stack support applications written in Javascript for both server-side and client-side execution environments.
+In the past I have developed a few applications with Node.js, mainly using the MEN stack. I love the fact that all components of the stack support applications written in Javascript for both server-side and client-side execution environments.
 
 Currently I'm learning more about the React Framework and would love to incorporate that into my stack (MERN-stack).
 
