@@ -42,4 +42,4 @@ Currently I'm learning more about the React Framework and would love to incorpor
 
 ### Download Resume
 
-<a href="../../assets/pdf/Maximiliaan_Verheyen.pdf" target="_blank"><img src="../../assets/img/sample/32px-PDF_file_icon.png" alt="PDF download"></a>
+<a href="../../assets/pdf/Maximiliaan_Verheyen_CV.pdf" target="_blank"><img src="../../assets/img/sample/32px-PDF_file_icon.png" alt="PDF download"></a>
